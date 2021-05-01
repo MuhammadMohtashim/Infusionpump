@@ -1,3 +1,5 @@
+#Note before Starting
+
 For assembly instructions and the BOM for the body of the syringe pump, you can view the original guide to assembly.
 
 https://karpova-lab.github.io/syringe-pump/frame.html#assembly
